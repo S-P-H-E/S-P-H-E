@@ -2,7 +2,6 @@
 
 I am a full-stack developer and designer.
 
-I build with TypeScript and Rust on the backend
-and React (usually via Next.js), Vue, and the Elysia framework for Node / Bun APIs.
+I build with TypeScript and Rust on the backend, React and Vue on the frontend and the Elysia framework for APIs
 
 For hosting: Vercel for most React front-ends, Docker plus Railway for backend services and full-stack projects.
