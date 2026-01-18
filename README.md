@@ -1,4 +1,4 @@
-<h3 style="margin: 0;">Hi, I’m Sphe!</h3>
+## Hi, I’m Sphe!
 
 I am a full-stack developer and designer.
 
