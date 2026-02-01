@@ -6,4 +6,4 @@ I build with TypeScript, Rust and Go on the backend, React and Svelete on the fr
 
 For hosting, I use Vercel for most projects and Railway for Docker-based backend services and microservices.
 
-[Visit my website](https://www.sssphe.com/)
+[/spheceo](https://spheceo.vercel.app)
